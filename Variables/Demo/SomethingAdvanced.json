@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "namespace": {
+    "id": 1,
+    "name": "Demo"
+  },
+  "name": "SomethingAdvanced",
+  "description": "",
+  "parser": "<parser><type>string</type><replace>true</replace><decodeHtml>false</decodeHtml></parser>",
+  "defaultValue": "",
+  "cacheTime": 0,
+  "cacheLayer": "Global",
+  "src": {
+    "value": "[User:DisplayName]",
+    "type": "string"
+  }
+}
